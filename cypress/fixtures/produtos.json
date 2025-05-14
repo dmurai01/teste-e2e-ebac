@@ -1,0 +1,27 @@
+[
+    {
+        "nomeProduto": "Argus All-Weather Tank",
+        "tamanho": "M",
+        "cor": "Gray",
+        "quantidade": 2 
+    },
+    {
+        "nomeProduto": "Teton Pullover Hoodie",
+        "tamanho": "XL",
+        "cor": "Black",
+        "quantidade": 3 
+    },
+    {
+        "nomeProduto": "Circe Hooded Ice Fleece",
+        "tamanho": "S",
+        "cor": "Gray",
+        "quantidade": 5 
+    },
+    {
+        "nomeProduto": "Daphne Full-Zip Hoodie",
+        "tamanho": "S",
+        "cor": "Purple",
+        "quantidade": 1 
+    }
+
+]
