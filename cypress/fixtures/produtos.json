@@ -22,6 +22,12 @@
         "tamanho": "S",
         "cor": "Purple",
         "quantidade": 1 
+    },
+    {
+        "nomeProduto": "Phoebe Zipper Sweatshirt",
+        "tamanho": "L",
+        "cor": "White",
+        "quantidade": 2 
     }
 
 ]
