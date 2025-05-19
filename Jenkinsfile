@@ -8,6 +8,12 @@ pipeline {
                 bat 'npm install'
             }
         }
+        stage('Rodar Serverest') {
+            steps {
+               bat '''set NO_COLOR=1
+start npx serverest'''
+            }
+        }        
         stage('Test') {
             steps {
                 bat '''set NO_COLOR=1
